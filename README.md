@@ -15,12 +15,12 @@
 
 # **Process Mapping**
 
-**Bibliotecas:**
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-from sklearn import linear_model
+**Bibliotecas usadas no projeto:**
+- import pandas as pd
+- import numpy as np
+- import seaborn as sns
+- import matplotlib.pyplot as plt
+- from sklearn import linear_model
 <hr>
 
 Carregamento e e leitura de um arquivo CSV com o Pandas;
