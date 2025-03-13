@@ -1,9 +1,7 @@
-# machine-learning-para-estimativa-do-valor-em-estoque-modulo-25.11-Ebac
-
-
 <h1>Machine Learning</h1>
 <h1>Regressão Linear</h1>
 <h1> Módulo 25.11 - Ebac</h1>
+
 > **Nota:**
 > A apresentação do Readme.md referente a este projeto ainda esta em fase de desenvolvimento, em breve terá novas atualizações...
 
