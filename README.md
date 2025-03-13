@@ -23,7 +23,7 @@
 - from sklearn import linear_model
 <hr>
 
-1 - Carregamento e e leitura de um arquivo CSV com o Pandas;
+1 - Carregamento e leitura de um arquivo CSV com o Pandas;
 
 2 - Exploração dos dados;
 
