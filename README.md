@@ -8,7 +8,7 @@
 
 ![Marketing](https://github.com/Sandro-Alexandre-Olmedo/machine-learning-para-estimativa-do-valor-em-estoque-modulo-25.11-Ebac/blob/b6e5391c09a06242dbf82a4a52ee8e3b549aa498/marketing2.jpg)
 
-<div style="text-align: justify; width: auto; background-color:; border: 0px solid green; line-height: 1.8; font-size: 18px">
+<div style="text-align: justify; width: auto; background-color:; line-height: 1.8; font-size: 18px">
 
 <div align="justify">
   
@@ -61,10 +61,6 @@ Basicamente uma das formas de estimar corretamente a alocação dos recursos é 
 
 <hr>
 
-<div align="justify">
-
-  ![Scatter](https://github.com/Sandro-Alexandre-Olmedo/machine-learning-para-estimativa-do-valor-em-estoque-modulo-25.11-Ebac/blob/301f762d04100a26edfd1bdea06ff7803cde6bdb/plot_scatter_final_result.png)
-
-</div>
+![Scatter](https://github.com/Sandro-Alexandre-Olmedo/machine-learning-para-estimativa-do-valor-em-estoque-modulo-25.11-Ebac/blob/301f762d04100a26edfd1bdea06ff7803cde6bdb/plot_scatter_final_result.png)
 
 </div>
