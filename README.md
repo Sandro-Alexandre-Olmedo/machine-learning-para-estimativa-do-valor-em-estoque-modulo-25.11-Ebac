@@ -13,6 +13,27 @@
 
 <div style="text-align: justify; width: 80%; background-color:; border: 0px solid green; line-height: 1.8; font-size: 18px;">
 
+# **Introdução**
+
+<div style="display: flex; justify-content: left; align-items: center;">
+
+![Minha Foto](marketing2.jpg)
+
+</div>
+
+Grandes empresas têm o seu sucesso alcançado através do marketing, certo? Sim, isso já é bem estabelecido nos atuais mercados em nível global, na verdade as vendas e os estoques estão intimamente relacionadas com o marketing e este último sempre requer atualizações nas estratégias e no planejamento das campanhas de marketing.
+
+Um dos grandes problemas dentro de muitas empresas é com a gestão de estoques, sendo assim, os gestores precisam ser muito eficientes em descobrir exatamente as formas mais adequadas de utilizar os recursos disponíveis para alocar os esforços em marketing e vendas, a fim de que não faltem produtos para atender as demandas dos clientes após as ações de marketing ou que muitos produtos fiquem estagnados nos estoques da empresa após um erro nos valores investidos em campanhas de marketing.
+
+Os gestores precisam saber exatamente o montante físico e em valores que constam no inventário, uso de softwares adequados ajudam muito esse saber e qual deve ser o montante a ser adquirido para outros períodos de acordo com um histórico ou linha de tendência.
+
+O departamento de marketing cria expectativas e promessas a respeito dos produtos através de suas campanhas, no entanto, os profissionais de marketing não têm como estimar exatamente se as mensagens que transmitem ao público são suficientes ou não e para que isso funcione de fato é necessária uma estreita comunicação a com a gestão de vendas e de estoque e garantir que as campanhas de marketing tenham sucesso.
+
+Basicamente uma das formas de estimar corretamente a alocação dos recursos é traçar uma linha de tendência entre os investimentos anteriores em marketing com os montantes em estoque para cada investimento anterior e conhecer melhor a relação entre essas duas variáveis, isso pode ser feito com o auxílio da tecnologia, mais precisamente com o uso do Machine Learning e Regressão Linear e por fim estimar o montante a ser alocado aos estoques após a definição de um determinado valor a ser investido em novas campanhas.
+</div>
+
+<div style="text-align: justify; width: 80%; background-color:; border: 0px solid green; line-height: 1.8; font-size: 18px;">
+
 # **Process Mapping**
 
 **Bibliotecas usadas no projeto:**
@@ -35,8 +56,7 @@
 
 6 - Posteriormente o `reg_linear.intercept_` ou intercepto nos trouxe o valor de `y` quando `x` = 0. Em outras palavras, ele indica onde a linha da regressão cruza o eixo `y`, `intercept_` é um atributo do objeto após o modelo ser treinado, ele armazena o valor do intercepto, esse valor será um ponto indicado em um gráfico ligando o eixo `x` com o eixo `y` (correlação);
 
-7 - Grafico de gráfico de dispersão`scatter` com a utilização de um array numpy para traçar uma reta.
-Uso dos valores encontrados através das duas funções `reg_linear.coef_` e `reg_linear.intercept_` para traçar uma reta entre os eixos x e y em um gráfico de dispersão(scatter) do pacote Matplotlib, a reta quase que liga boa parte dos pontos, sendo assim, temos uma correlação positiva entre as variáveis, o que nos permite assumir esse modelo de regressão linear é válido na predição ou estimativa do montante em estoque após o investimento sugerido, ou seja, a relação entre valores gastos com marketing e o montante em estoque são boas;
+7 - Grafico de gráfico de dispersão`scatter` com a utilização de um array numpy para traçar uma reta com os valores encontrados através das duas funções `reg_linear.coef_` e `reg_linear.intercept_`; 
 
 8 - Uso da função `reg_linear.predict([[75]])` com o valor a ser investido para prever o montante que deverá ser alocado ao estoque;
 
@@ -45,4 +65,5 @@ Uso dos valores encontrados através das duas funções `reg_linear.coef_` e `re
 10 - Resposta;
 
 11 - Storytelling
-Nota: A reta quase que liga boa parte dos pontos, sendo assim, temos uma correlação positiva entre as variáveis, o que nos permite assumir que esse modelo de regressão linear de predição ou estimativa do montante em estoque é boa, ou seja, a relação entre valores gastos com marketing e o montante em estoque estão corretas.
+
+
