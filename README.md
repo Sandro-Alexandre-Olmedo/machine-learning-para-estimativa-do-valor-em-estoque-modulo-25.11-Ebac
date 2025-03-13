@@ -49,7 +49,7 @@ Basicamente uma das formas de estimar corretamente a alocação dos recursos é 
 
 6 - Posteriormente a função `reg_linear.intercept_` ou intercepto nos trouxe o valor de `y` quando `x` = 0. Em outras palavras, ele indica onde a linha da regressão cruza o eixo `y`, `intercept_` é um atributo do objeto após o modelo ser treinado, ele armazena o valor do intercepto, esse valor será um ponto indicado em um gráfico ligando o eixo `x` com o eixo `y` (correlação);
 
-7 - Grafico de gráfico de dispersão`scatter` com a utilização de um array numpy para traçar uma reta com os valores encontrados através das duas funções `reg_linear.coef_` e `reg_linear.intercept_`; 
+7 - Grafico de dispersão`scatter` com a utilização de um array numpy para traçar uma reta com os valores encontrados através das duas funções `reg_linear.coef_` e `reg_linear.intercept_`; 
 
 8 - Uso da função `reg_linear.predict([[75]])` com o valor a ser investido para prever o montante que deverá ser alocado ao estoque;
 
