@@ -23,23 +23,26 @@
 - from sklearn import linear_model
 <hr>
 
-Carregamento e e leitura de um arquivo CSV com o Pandas;
+1 - Carregamento e e leitura de um arquivo CSV com o Pandas;
 
-Exploração dos dados;
+2 - Exploração dos dados;
 
-Grafico de apresentação `scatter` com seaborn;
+3 - Grafico de apresentação `scatter` com seaborn;
 
-Machine Learning e Regressão Linear com o sklearn;
+4 - Machine Learning e Regressão Linear com o sklearn;
 
-Ajustes do modelo de regressão linear com o método `.fit`, para localizar o coeficiente angular através da função ` reg_linear.coef_` (`3.90643623`). Esse coeficiente é uma medida que indica a inclinação da reta em relação ao eixo x do plano cartesiano;
+5 - Ajustes do modelo de regressão linear com o método `.fit`, para localizar o coeficiente angular através da função ` reg_linear.coef_` (`3.90643623`). Esse coeficiente é uma medida que indica a inclinação da reta em relação ao eixo x do plano cartesiano;
 
-Posteriormente o `reg_linear.intercept_`(`49.200323514387804`) ou intercepto nos trouxe o valor de `y` quando `x` = 0. Em outras palavras, ele indica onde a linha da regressão cruza o eixo `y`, `intercept_` é um atributo do objeto após o modelo ser treinado, ele armazena o valor do intercepto, esse valor será um ponto indicado em um gráfico ligando o eixo `x` com o eixo `y` (correlação);
+6 - Posteriormente o `reg_linear.intercept_`(`49.200323514387804`) ou intercepto nos trouxe o valor de `y` quando `x` = 0. Em outras palavras, ele indica onde a linha da regressão cruza o eixo `y`, `intercept_` é um atributo do objeto após o modelo ser treinado, ele armazena o valor do intercepto, esse valor será um ponto indicado em um gráfico ligando o eixo `x` com o eixo `y` (correlação);
 
-Grafico de gráfico de dispersão`scatter` com a utilização de um array numpy para traçar uma reta.
+7 - Grafico de gráfico de dispersão`scatter` com a utilização de um array numpy para traçar uma reta.
 Uso dos valores encontrados através das duas funções `reg_linear.coef_` e `reg_linear.intercept_` para traçar uma reta entre os eixos x e y em um gráfico de dispersão(scatter) do pacote Matplotlib, a reta quase que liga boa parte dos pontos, sendo assim, temos uma correlação positiva entre as variáveis, o que nos permite assumir esse modelo de regressão linear é válido na predição ou estimativa do montante em estoque após o investimento sugerido, ou seja, a relação entre valores gastos com marketing e o montante em estoque são boas;
 
-Uso da função `reg_linear.predict([[75]])` com o valor a ser investido para prever o montante que deverá ser alocado ao estoque;
+8 - Uso da função `reg_linear.predict([[75]])` com o valor a ser investido para prever o montante que deverá ser alocado ao estoque;
 
-Por fim, criação de um novo gráfico de dispersão(scatter) traçando uma reta e marcando um ponto preto no gráfico através do valores ou coordenadas encontrados nas funções `reg_linear.coef_` e `reg_linear.intercept_`;
+9 - Por fim, criação de um novo gráfico de dispersão(scatter) traçando uma reta e marcando um ponto preto no gráfico através do valores ou coordenadas encontrados nas funções `reg_linear.coef_` e `reg_linear.intercept_`;
 
+10 - Resposta;
+
+11 - Storytelling
 Nota: A reta quase que liga boa parte dos pontos, sendo assim, temos uma correlação positiva entre as variáveis, o que nos permite assumir que esse modelo de regressão linear de predição ou estimativa do montante em estoque é boa, ou seja, a relação entre valores gastos com marketing e o montante em estoque estão corretas.
