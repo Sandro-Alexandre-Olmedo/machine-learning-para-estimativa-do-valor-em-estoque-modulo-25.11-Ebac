@@ -27,9 +27,9 @@
 
 2 - Exploração dos dados;
 
-3 - Grafico de apresentação `scatter` com seaborn;
+3 - Grafico de apresentação `scatter` com `Seaborn`;
 
-4 - Machine Learning e Regressão Linear com o sklearn;
+4 - Machine Learning e Regressão Linear com o `sklearn`;
 
 5 - Ajustes do modelo de regressão linear com o método `.fit`, para localizar o coeficiente angular através da função ` reg_linear.coef_` (`3.90643623`). Esse coeficiente é uma medida que indica a inclinação da reta em relação ao eixo x do plano cartesiano;
 
