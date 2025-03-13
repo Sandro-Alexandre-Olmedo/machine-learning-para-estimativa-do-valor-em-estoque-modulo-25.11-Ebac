@@ -31,9 +31,9 @@
 
 4 - Machine Learning e Regressão Linear com o `sklearn`;
 
-5 - Ajustes do modelo de regressão linear com o método `.fit`, para localizar o coeficiente angular através da função ` reg_linear.coef_` (`3.90643623`). Esse coeficiente é uma medida que indica a inclinação da reta em relação ao eixo x do plano cartesiano;
+5 - Ajustes do modelo de regressão linear com o método `.fit`, para localizar o coeficiente angular através da função ` reg_linear.coef_`. Esse coeficiente é uma medida que indica a inclinação da reta em relação ao eixo x do plano cartesiano;
 
-6 - Posteriormente o `reg_linear.intercept_`(`49.200323514387804`) ou intercepto nos trouxe o valor de `y` quando `x` = 0. Em outras palavras, ele indica onde a linha da regressão cruza o eixo `y`, `intercept_` é um atributo do objeto após o modelo ser treinado, ele armazena o valor do intercepto, esse valor será um ponto indicado em um gráfico ligando o eixo `x` com o eixo `y` (correlação);
+6 - Posteriormente o `reg_linear.intercept_` ou intercepto nos trouxe o valor de `y` quando `x` = 0. Em outras palavras, ele indica onde a linha da regressão cruza o eixo `y`, `intercept_` é um atributo do objeto após o modelo ser treinado, ele armazena o valor do intercepto, esse valor será um ponto indicado em um gráfico ligando o eixo `x` com o eixo `y` (correlação);
 
 7 - Grafico de gráfico de dispersão`scatter` com a utilização de um array numpy para traçar uma reta.
 Uso dos valores encontrados através das duas funções `reg_linear.coef_` e `reg_linear.intercept_` para traçar uma reta entre os eixos x e y em um gráfico de dispersão(scatter) do pacote Matplotlib, a reta quase que liga boa parte dos pontos, sendo assim, temos uma correlação positiva entre as variáveis, o que nos permite assumir esse modelo de regressão linear é válido na predição ou estimativa do montante em estoque após o investimento sugerido, ou seja, a relação entre valores gastos com marketing e o montante em estoque são boas;
