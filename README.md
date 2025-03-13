@@ -59,6 +59,12 @@ Basicamente uma das formas de estimar corretamente a alocação dos recursos é 
 
 11 - Storytelling
 
-![Scatter](https://github.com/Sandro-Alexandre-Olmedo/machine-learning-para-estimativa-do-valor-em-estoque-modulo-25.11-Ebac/blob/301f762d04100a26edfd1bdea06ff7803cde6bdb/plot_scatter_final_result.png)
+<hr>
+
+<div align="justify">
+
+  ![Scatter](https://github.com/Sandro-Alexandre-Olmedo/machine-learning-para-estimativa-do-valor-em-estoque-modulo-25.11-Ebac/blob/301f762d04100a26edfd1bdea06ff7803cde6bdb/plot_scatter_final_result.png)
+
+</div>
 
 </div>
