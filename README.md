@@ -10,6 +10,8 @@
 
 <div style="text-align: justify; width: auto; background-color:; border: 0px solid green; line-height: 1.8; font-size: 18px">
 
+<div align="justify">
+  
 # **Introdução**
 
 Grandes empresas têm o seu sucesso alcançado através do marketing, certo? Sim, isso já é bem estabelecido nos atuais mercados em nível global, na verdade as vendas e os estoques estão intimamente relacionadas com o marketing e este último sempre requer atualizações nas estratégias e no planejamento das campanhas de marketing.
