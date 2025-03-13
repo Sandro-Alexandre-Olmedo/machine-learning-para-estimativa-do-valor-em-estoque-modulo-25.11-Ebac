@@ -53,7 +53,7 @@ Basicamente uma das formas de estimar corretamente a alocação dos recursos é 
 
 8 - Uso da função `reg_linear.predict([[75]])` com o valor a ser investido para prever o montante que deverá ser alocado ao estoque;
 
-9 - Por fim, criação de um novo gráfico de dispersão `scatter` traçando uma reta e marcando um ponto preto no gráfico através do valores ou coordenadas encontrados nas funções `reg_linear.coef_` e `reg_linear.intercept_`;
+9 - Por fim, criação de um novo gráfico de dispersão `scatter` traçando uma reta e marcando um ponto preto no gráfico através dos valores ou coordenadas encontrados nas funções `reg_linear.coef_` e `reg_linear.intercept_`;
 
 10 - Resposta;
 
