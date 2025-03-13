@@ -1,5 +1,4 @@
-<h1>Machine Learning</h1>
-<h1>Regressão Linear</h1>
+<h1>Machine Learning - Regressão Linear</h1>
 <h1> Módulo 25.11 - Ebac</h1>
 
 > **Nota:**
