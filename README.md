@@ -9,17 +9,7 @@
 
 ![Marketing](https://github.com/Sandro-Alexandre-Olmedo/machine-learning-para-estimativa-do-valor-em-estoque-modulo-25.11-Ebac/blob/b6e5391c09a06242dbf82a4a52ee8e3b549aa498/marketing2.jpg)
 
-
-
-<div style="text-align: justify; width: 80%; background-color:; border: 0px solid green; line-height: 1.8; font-size: 18px;">
-
 # **Introdução**
-
-<div style="display: flex; justify-content: left; align-items: center;">
-
-![Minha Foto](marketing2.jpg)
-
-</div>
 
 Grandes empresas têm o seu sucesso alcançado através do marketing, certo? Sim, isso já é bem estabelecido nos atuais mercados em nível global, na verdade as vendas e os estoques estão intimamente relacionadas com o marketing e este último sempre requer atualizações nas estratégias e no planejamento das campanhas de marketing.
 
@@ -33,6 +23,8 @@ Basicamente uma das formas de estimar corretamente a alocação dos recursos é 
 </div>
 
 <div style="text-align: justify; width: 80%; background-color:; border: 0px solid green; line-height: 1.8; font-size: 18px;">
+
+<hr>
 
 # **Process Mapping**
 
