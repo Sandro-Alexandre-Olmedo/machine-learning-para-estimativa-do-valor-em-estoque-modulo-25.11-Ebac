@@ -53,11 +53,13 @@ Basicamente uma das formas de estimar corretamente a alocação dos recursos é 
 
 8 - Uso da função `reg_linear.predict([[75]])` com o valor a ser investido para prever o montante que deverá ser alocado ao estoque;
 
-9 - Por fim, criação de um novo gráfico de dispersão `scatter` traçando uma reta e marcando um ponto preto no gráfico através dos valores ou coordenadas encontrados nas funções `reg_linear.coef_` e `reg_linear.intercept_`;
+9 - Criação de um novo gráfico de dispersão `scatter` traçando uma reta e marcando um ponto preto no gráfico através dos valores ou coordenadas encontrados nas funções `reg_linear.coef_` e `reg_linear.intercept_`;
 
-10 - Resposta;
+10 - Por fim, utilizamos o método do `Coeficiente de Correlação de Pearson` ou `r` também conhecido como coeficiente de correlação produto-momento de Pearson, é uma medida estatística que quantifica a força e a direção da relação linear entre duas variáveis quantitativas. r = 0.8 ≤ |r| ≤ 1.0 indica que o coeficiente de correlação de Pearson é muito forte, ou seja, valores próximos a 1 indicam uma forte correlação positiva.
 
-11 - Storytelling
+11 - Resposta;
+
+12 - Storytelling
 
 <hr>
 
